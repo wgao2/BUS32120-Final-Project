@@ -50,9 +50,6 @@ The project combines **Python** and **SQL** as required by the course rubric.
 - `BUS32120_FINAL_SQL_Queries_ONLY_SUBMIT.ipynb`  
   Separate SQL-only notebook containing the required SQL queries with comments explaining what each query does, why it is included, and what the results show in general.
 
-- `presentation.pdf`  
-  Presentation file used for the in-class presentation, if included in this repo.
-
 ## Main Analytical Features
 
 Some of the key engineered variables include:
